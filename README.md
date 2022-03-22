@@ -27,8 +27,8 @@
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeethasakthivel99&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeethasakthivel99&theme=github-dark&hide_border=true" alt="sangeethasakthivel99"/></p> -->
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sangeethasakthivel99&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sangeethasakthivel99&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+ -->
 [gmail]: mailto:sakthivelsangeetha99@gmail.com
 [linkedin]: https://www.linkedin.com/in/sangeetha-sakthivel-b729501a0/
 [Medium]: https://medium.com/@sangeethasakthivel
