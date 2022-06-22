@@ -1,4 +1,4 @@
-# Hola, I am Sangeetha Sakthivel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hola, I am Sangeetha Sakthivel 
 ### An Android engineer who is passionate about technology, design and architecture.
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
