@@ -31,7 +31,7 @@
  -->
 [gmail]: mailto:sakthivelsangeetha99@gmail.com
 [linkedin]: https://www.linkedin.com/in/sangeetha-sakthivel-b729501a0/
-[Medium]: https://medium.com/@sangeethasakthivel
+[Medium]: https://medium.com/@sakthivelsangeetha99
 
 ## Projects made with ❤️ 👇
 
